@@ -1,5 +1,5 @@
 {
-    "name": "jedlikowski/laravel-nextcloud",
+    "name": "nicolagaldiolo/laravel-nextcloud",
     "type": "library",
     "version": "1.0.0",
     "description": "Laravel 5 NextCloud Filesystem",
